@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafe Menu</title>
+    <link rel="stylesheet" href="./css/menu.css">
+</head>
+<body>
+    <div id="topbar"></div>
+    <div id="container">
+        <div id="header">
+            <img src="./images/logo.png" alt="">
+            <ul>
+                <li><a href="./coffee.html">Home</a></li>
+                <li><a href="">E-Shop</a></li>
+                <li><a href="">Order-Online</a></li>
+                <li><a href="">About Us</a></li>
+            </ul>
+        </div>
+        <div id="poster">
+            <img src="./images/Cappuccino" alt="">
+            <p><b>We have a range of delicious and high-quality cake, beverages ...</b></p>
+            <img src="./images/coffeemenu.jpg" alt="">
+        </div>
+    </div>
+    <div id="footer">
+        <ul>
+            <li><a href="./coffee.html">Home</a></li>
+            <li><a href="">E-Shop</a></li>
+            <li><a href="">Order-Online</a></li>
+            <li><a href="">About Us</a></li>
+        </ul>
+        <p>&copy; 2023  |Designed by Ajai</p>
+    </div>
+
+</body>
+</html>
